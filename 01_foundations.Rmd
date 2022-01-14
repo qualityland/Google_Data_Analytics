@@ -1,0 +1,62 @@
+---
+title: 'Foundations: Data, Data , Everywhere'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data Scientist vs. Data Analyst
+
+### Data Scientist
+
+Creates new ways of modeling and understanding the unknown by using raw
+data.
+
+
+### Data Analyst
+
+*Data Scientists* create new questions using data, while *Data Analysts* find
+answers to existing questions by creating insights from data sources.
+
+
+## Data analysis vs. Data Analytics
+
+*Data analysis* is the collection, transformation, and organization of data in
+order to draw conclusions, make predictions, and drive informed decision-making.
+*Data analytics* in the simplest terms is the science of data.
+
+## Data Analysis Process
+
+Analysts use data-driven decision-making and follow a step-by-step process.
+There are six steps to this process:
+
+1. **Ask questions** and define the problem.
+2. **Prepare data** by collecting and storing the information.
+3. **Process data** by cleaning and checking the information.
+4. **Analyze data** to find patterns, relationships, and trends.
+5. **Share data** with your audience.
+6. **Act** on the data and use the analysis results.
+
+
+## Data Analysis Lifecycle
+
+The process presented as part of the Google Data Analytics Certificate is one that will be valuable to you as you keep moving forward in your career:
+
+1. **Ask**: Business Challenge/Objective/Question
+2. **Prepare**: Data generation, collection, storage, and data management
+3. **Process**: Data cleaning/data integrity
+4. **Analyze**: Data exploration, visualization, and analysis
+5. **Share**: Communicating and interpreting results 
+6. **Act**:  Putting your insights to work to solve the problem
+
+
+## Analytical Skills
+
+1. Curiosity
+2. Understanding context
+3. Having a technical mindset
+4. Data design
+5. Data strategy
+
