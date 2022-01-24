@@ -1,33 +1,39 @@
 ---
 title: 'Foundations: Data, Data , Everywhere'
-output: html_document
+output:
+  html_document:
+    toc: true # table of content true
+    toc_depth: 3  # upto three depths of headings (specified by #, ## and ###)
+    number_sections: false  ## if you want number sections at each table header
+    theme: united  # many options for theme, this one is my favorite.
+    highlight: tango  # specifies the syntax highlighting style
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Data Scientist vs. Data Analyst
+### Data Scientist vs. Data Analyst
 
-### Data Scientist
+#### Data Scientist
 
 Creates new ways of modeling and understanding the unknown by using raw
 data.
 
 
-### Data Analyst
+#### Data Analyst
 
 *Data Scientists* create new questions using data, while *Data Analysts* find
 answers to existing questions by creating insights from data sources.
 
 
-## Data analysis vs. Data Analytics
+### Data Analysis vs. Data Analytics
 
 *Data analysis* is the collection, transformation, and organization of data in
 order to draw conclusions, make predictions, and drive informed decision-making.
 *Data analytics* in the simplest terms is the science of data.
 
-## Data Analysis Process
+### Data Analysis Process
 
 Analysts use data-driven decision-making and follow a step-by-step process.
 There are six steps to this process:
@@ -40,7 +46,7 @@ There are six steps to this process:
 6. **Act** on the data and use the analysis results.
 
 
-## Data Analysis Lifecycle
+### Data Analysis Lifecycle
 
 The process presented as part of the Google Data Analytics Certificate is one that will be valuable to you as you keep moving forward in your career:
 
@@ -52,11 +58,13 @@ The process presented as part of the Google Data Analytics Certificate is one th
 6. **Act**:  Putting your insights to work to solve the problem
 
 
-## Analytical Skills
+### Analytical Skills
 
 1. Curiosity
 2. Understanding context
 3. Having a technical mindset
 4. Data design
 5. Data strategy
+
+
 
