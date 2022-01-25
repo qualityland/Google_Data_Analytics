@@ -67,4 +67,73 @@ The process presented as part of the Google Data Analytics Certificate is one th
 5. Data strategy
 
 
+### Analytical Thinking
 
+Identifying and defining a problem and then solving it by using data in an
+organized, step-by-step manner
+
+Five key aspects to analytical thinking:
+
+1. **Visualization**: the graphical representation of information.
+2. **Strategy**: staying focused and on track. ask yourself: what to archive?
+and how to get there?
+3. **Problem-orientation**: keep the problem top of mind throughout the entire
+project.
+4. **Correlation**: identify trends of pieces of data in the same or opposite
+direction.
+5. **Big-picture and detailed-orientated thinking**: ability to identify all
+aspects (details) to execute a bigger plan. means, to zoom in to focus on
+details, but also zoom out and see opportunities and possibilities that lead to
+new ideas and innovations. 
+
+
+### Root Cause Identification
+
+#### The five why's
+
+Ask *why?* five times to veveal the root cause:
+
+* why can't I make a blueberry pie? because there were no bluberrys at the store
+* why weren't there blueberries in the store? because blueberry bushes had not
+engought fruit this season.
+* why didn't bushes have enough fruit? because birds ate them.
+* why did birds eat them? because there weren't enough mulberries.
+* why wasn't there enough mulberries? because of a late frost.
+
+
+### Gap Analysis
+
+A method for examining and evaluating how a process works currently in order to
+get where you want to be in the future.
+
+
+### Data-driven decision-making
+
+Using facts to guide business strategy.
+
+
+### Data Analysis Phases
+
+1. **Ask**: Business Challenge/Objective/Question
+2. **Prepare**: Data generation, collection, storage, and data management
+3. **Process**: Data cleaning/data integrity
+4. **Analyze**: Data exploration, visualization, and analysis
+5. **Share**: Communicating and interpreting results 
+6. **Act**:  Putting your insights to work to solve the problem
+
+### Data Lifecycle
+
+1. **Plan**: Decide what kind of data is needed, how it will be managed, and who
+will be responsible for it.
+2. **Capture**: Collect or bring in data from a variety of different sources.
+3. **Manage**: Care for and maintain the data. This includes determining how and
+where it is stored and the tools used to do so.
+4. **Analyze**: Use the data to solve problems, make decisions, and support
+business goals.
+5. **Archive**: Keep relevant data stored for long-term and future reference.
+6. **Destroy**: Remove data from storage and delete any shared copies of the
+data.
+
+
+
+### go on with course 1, week 3, "Outlining the Data Analysis Process"
